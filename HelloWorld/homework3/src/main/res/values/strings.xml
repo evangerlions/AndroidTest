@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="action_settings">Settings</string>
+    <string name="warrior_name">Warrior</string>
+    <string name="mage_name">Mage</string>
+    <string name="priest_name">Priest</string>
+    <string name="list1">ExpandableList</string>
+    <string name="list2">List</string>
+</resources>

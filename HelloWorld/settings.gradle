@@ -1,0 +1,1 @@
+include ':calculatedemo', ':homework3', ':homework4', ':SQLiteDemo', ':homework5_sqlitedemo', ':homework6_contentdemo', ':homework6_contentdemo'

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLiteDemo/SQLiteDemo.iml" filepath="$PROJECT_DIR$/SQLiteDemo/SQLiteDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculatedemo/calculatedemo.iml" filepath="$PROJECT_DIR$/calculatedemo/calculatedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework3/homework3.iml" filepath="$PROJECT_DIR$/homework3/homework3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework4/homework4.iml" filepath="$PROJECT_DIR$/homework4/homework4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework5_sqlitedemo/homework5_sqlitedemo.iml" filepath="$PROJECT_DIR$/homework5_sqlitedemo/homework5_sqlitedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework6_contentdemo/homework6_contentdemo.iml" filepath="$PROJECT_DIR$/homework6_contentdemo/homework6_contentdemo.iml" />
+    </modules>
+  </component>
+</project>
